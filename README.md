@@ -39,19 +39,25 @@ Built as part of my apprenticeship preparation for a Software Engineer Apprentic
 ## 📸 Project Screenshots
 
 ### Google Form Layout
-![Form Overview](PASTE-LINK-HERE)
+![Form Overview](https://github.com/user-attachments/assets/3f4b1a26-84fa-41b1-a381-becc014a95cc)
 
 ### Live Test Submission
-![Form Submission](PASTE-LINK-HERE)
+![Form Submission](https://github.com/user-attachments/assets/3345d5bb-721a-4a6e-a878-95e903dbb06a)
 
-### Make.com Automation Scenario (3 Connected Modules)
-![Make Scenario](PASTE-LINK-HERE)
+### Make.com Automation Scenario — Full Flow
+![Make Scenario](https://github.com/user-attachments/assets/a1b1dca0-3637-4e57-8bc4-0f1f317d8849)
+
+### Make.com Module Detail
+![Make Module Detail](https://github.com/user-attachments/assets/fa7722b1-b355-4694-95d5-e82695b1921c)
 
 ### Email Notification Received
-![Email Notification](PASTE-LINK-HERE)
+![Email Notification](https://github.com/user-attachments/assets/8fe29f3c-c0ee-4a88-9e51-be27e04b397a)
 
 ### Google Sheets Data Log
-![Sheets Log](PASTE-LINK-HERE)
+![Sheets Log](https://github.com/user-attachments/assets/40d573c0-3b45-4554-8ec9-3ecbbd8add9b)
+
+### Successful Test Run Confirmation
+![Test Run](https://github.com/user-attachments/assets/415119d9-f895-4eb6-ae9e-1c5b8cb36817)
 
 ---
 
